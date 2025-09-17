@@ -1,2 +1,2 @@
 # fuzzy-succotash
-TWRP for penang test
+Repositorio para archivo en JavaScript
